@@ -1,16 +1,10 @@
-# Iris-Flower-Classification
-Using the Iris dataset, build a machine learning model to classify iris flowers into their species based on features like petal length, petal width, sepal length, and sepal width. 
 # Iris Flower Classification
-
+Using the Iris dataset, build a machine learning model to classify iris flowers into their species based on features like petal length, petal width, sepal length, and sepal width. 
 **Oasis Infobyte Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
 
 ![MasterHead](https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png)
 
 <font size="1">Image Courtesy: https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png</font>
-
-Click on the following link to checkout the colab file.
-- [Colab](https://colab.research.google.com/drive/1kqaU-CK8mRD35y0dFF4xD9z-GJ_CCQOe?usp=sharing)
-
 
 ---
 
